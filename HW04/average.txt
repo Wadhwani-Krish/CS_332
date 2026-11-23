@@ -1,0 +1,3 @@
+Average of Consumer Thread Sums: 124229.20
+Total numbers processed: 5000
+Total sum: 2484584
